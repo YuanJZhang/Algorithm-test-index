@@ -1,5 +1,0 @@
-lxml
-matplotlib
-numpy
-tqdm
-Pillow
